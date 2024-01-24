@@ -6,7 +6,7 @@
 
 ##
 
-<div style="display: inline_block">  
+<div style="display: inline_block" align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" width="50" alt="Java" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" width="50" alt="Oracle DB" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50" width="50" alt="Spring" /> 
