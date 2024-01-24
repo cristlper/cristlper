@@ -24,14 +24,6 @@
 ##
 
 <div>
-  
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristlper&show_icons=true&include_all_commits&size_weight=1&count_weight=0&theme=shades-of-purple)
-
-</div>
-
-##
-
-<div>
 
 ### Repositórios
 - list1
